@@ -10,7 +10,7 @@ In this activity we will explore Angular components and angular routing
 
 ## Recordings
 
-- [Loom Recording]()
+- [Loom Recording](https://www.loom.com/share/47f3fbe41ecc4b57b32f5337916c631e?sid=7542d1c1-4a7a-4e12-9352-f97d3cf294cb)
 
 ## Technologies Used
 
